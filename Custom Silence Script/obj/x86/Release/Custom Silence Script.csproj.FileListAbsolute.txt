@@ -1,0 +1,2 @@
+S:\Google-Drive\CodingDump\Custom-Silence-Script\Custom Silence Script - Copy\Custom Silence Script\obj\x86\Release\Form1.resources
+S:\Google-Drive\CodingDump\Custom-Silence-Script\Custom Silence Script - Copy\Custom Silence Script\obj\x86\Release\Custom Silence Script.csproj.GenerateResource.Cache
